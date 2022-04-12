@@ -5,6 +5,6 @@ function logDebug(){
 }
 function logMessages() {
     console.log('Message');
-    console.warn('Abandon Hope All Ye Who Enter');
+    console.warn('Attention');
     console.error(`I'm sorry, Dave. I'm afraid I can't do that.`);
 }
